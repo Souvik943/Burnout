@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Burnout/static/css/main.ea0ff67e.chunk.css",
+    "main.js": "/Burnout/static/js/main.63b712b3.chunk.js",
+    "main.js.map": "/Burnout/static/js/main.63b712b3.chunk.js.map",
+    "runtime-main.js": "/Burnout/static/js/runtime-main.c18ba4b5.js",
+    "runtime-main.js.map": "/Burnout/static/js/runtime-main.c18ba4b5.js.map",
+    "static/js/2.ce8e1aea.chunk.js": "/Burnout/static/js/2.ce8e1aea.chunk.js",
+    "static/js/2.ce8e1aea.chunk.js.map": "/Burnout/static/js/2.ce8e1aea.chunk.js.map",
+    "static/js/3.8f034e68.chunk.js": "/Burnout/static/js/3.8f034e68.chunk.js",
+    "static/js/3.8f034e68.chunk.js.map": "/Burnout/static/js/3.8f034e68.chunk.js.map",
+    "index.html": "/Burnout/index.html",
+    "static/css/main.ea0ff67e.chunk.css.map": "/Burnout/static/css/main.ea0ff67e.chunk.css.map",
+    "static/js/2.ce8e1aea.chunk.js.LICENSE.txt": "/Burnout/static/js/2.ce8e1aea.chunk.js.LICENSE.txt",
+    "static/media/sapLogo.141c5659.svg": "/Burnout/static/media/sapLogo.141c5659.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c18ba4b5.js",
+    "static/js/2.ce8e1aea.chunk.js",
+    "static/css/main.ea0ff67e.chunk.css",
+    "static/js/main.63b712b3.chunk.js"
+  ]
+}
